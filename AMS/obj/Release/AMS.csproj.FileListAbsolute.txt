@@ -1,0 +1,10 @@
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\bin\Release\AMS.exe.config
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\bin\Release\AMS.exe
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\bin\Release\AMS.pdb
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.Form1.resources
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.Form2.resources
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.Form3.resources
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.Properties.Resources.resources
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.csproj.GenerateResource.Cache
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.exe
+E:\graduatestudy\computer\pfiles\C#\AMS_R1\AMS\obj\Release\AMS.pdb
