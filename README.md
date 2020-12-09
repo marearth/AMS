@@ -12,6 +12,6 @@ Initial password:123mysql
 
 ![2020-12-08_152422_check](https://user-images.githubusercontent.com/7277881/101562251-04cfb980-3a02-11eb-8c8c-3a471f421ed3.jpg)
 # commit interface
-Commit interface provides ways to insert,delete and update items of database. The accid is essential and should be filled with abbrevaition  
-of key pharse,such as BOC for Bank of China.
+Commit interface provides ways to insert,delete and update items of database. The accid is essential and should be filled with
+abbrevation of key pharse,such as BOC for Bank of China.
 ![2020-12-08_152454_commit](https://user-images.githubusercontent.com/7277881/101562252-05685000-3a02-11eb-9693-e8766a366a7a.jpg)
