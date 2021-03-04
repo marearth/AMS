@@ -2,7 +2,7 @@
 AMS, namely Account Management System, is a software used for managing user account information. Database is recorded by xml format file.
 AMS has three user interfaces which are main,verification and commit. It depends on .Net framework in windows envrionment.
 # main interface
-Main interface is used to retrieve account inforamtion by searching under a keyword. The keyword is usually part of a abbreviation of key pharse.
+Main interface is used to retrieve account information by searching under a keyword. The keyword is usually part of a abbreviation of key pharse.
 
 ![2020-12-08_152347_main](https://user-images.githubusercontent.com/7277881/101562245-026d5f80-3a02-11eb-94da-aac31bdc9965.jpg)
 # verificaiton interface
